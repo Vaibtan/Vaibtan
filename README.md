@@ -23,7 +23,7 @@
 
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm Vaibhav Tanwar, a senior at IIITD. I specialize in backend engineering, deep learning, distributed systems and algorithms, with a keen interest in graph representation learning 
   <br>
   <br>
   🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
