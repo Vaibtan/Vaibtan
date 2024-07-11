@@ -34,9 +34,9 @@
   <code><img title="Django" height="40" src="images/django.png"></code>
   <code><img title="Javascript" height="40" src="images/javascript.svg"></code>
   <code><img title="Pytorch" height="40" src="images/pytorch.png"></code>
-  <code><img title="Javascript" height="40" src="images/jax.jpg"></code>
-  <code><img title="Javascript" height="40" src="images/tinygrad.jpg"></code>
-
+  <code><img title="JAX" height="40" src="images/jax.jpg"></code>
+  <code><img title="Tinygrad" height="40" src="images/tinygrad.jpg"></code>
+  <code><img title="Scikit-Learn" height="40" src="images/scikit_learn.jpg"></code>
   <code><img title="HTML5" height="40" src="images/html5.svg"></code>
   <code><img title="CSS" height="40" src="images/css.svg"></code>
   <code><img title="React" height="40" src="images/react-original.svg"></code>
@@ -50,7 +50,6 @@
   <code><img title="GitHub" height="40" src="images/github.svg"></code>
   <code><img title="MySQL" height="40" src="images/mysql.svg"></code>
   <code><img title="npm" height="40" src="images/npm.svg"></code>
-  
 </p>
 <hr>
 
