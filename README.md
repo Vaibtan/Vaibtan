@@ -28,8 +28,8 @@
 <h2 align="center">🔥 Languages Frameworks & Tools 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="40" src="images/c.svg"></code>
-  <code><img title="C++" height="40" src="images/cpp.svg"></code>
+  <code><img title="C" height="50" src="images/c.svg"></code>
+  <code><img title="C++" height="50" src="images/cpp.svg"></code>
   <code><img title="Python" height="40" src="images/python-original.svg"></code>
   <code><img title="Django" height="40" src="images/django.png"></code>
   <code><img title="Javascript" height="40" src="images/javascript.svg"></code>
