@@ -6,10 +6,20 @@
   </a>
 </h1>
 
+### Connect with me📝:
+<p align="center">
+<a href="https://twitter.com/aflah002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aflah02101" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammad-aflah-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-aflah-khan" height="30" width="40" /></a>
+</p>
+
+
+<!--
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/vaibhav-tanwar-b413b0229/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://discord.com/users/924371348053192714" title="Discord Profile"><img width="22" src="images/discord.png"> Discord</a></code>
 </h5>
+-->
+
 <br>
 <p align="center">
   Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
