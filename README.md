@@ -6,20 +6,11 @@
   </a>
 </h1>
 
-### Connect with me📝:
-<p align="center">
-<a href="https://x.com/Sillychap101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sillychap101" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vaibhav-tanwar-b413b0229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-tanwar" height="30" width="40" /></a>
-<a href="https://discord.com/users/924371348053192714" target="blank"><img align="center" src="images/discord.png" alt="random_user99" height="30" width="40" /></a>
-</p>
-
-
-<!--
 <h5 align="center">
+  <code><a href="https://x.com/Sillychap101" title="Twitter Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"> LinkedIn</a></code>
   <code><a href="https://www.linkedin.com/in/vaibhav-tanwar-b413b0229/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://discord.com/users/924371348053192714" title="Discord Profile"><img width="22" src="images/discord.png"> Discord</a></code>
 </h5>
--->
 
 <br>
 <p align="center">
