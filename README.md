@@ -27,9 +27,11 @@
   <br>
   📚 I’m currently trying to delve deep in the world of Ethereum blockchain research and Financial markets.  
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/Vaibtan/Vaibtan/issues" title="Issues">Here</a>
   <br>
-  📫 How to reach me: <a href="mailto: vaibhav21296@iiitd.ac.in">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: vaibhav21296@iiitd.ac.in">vaibhav21296@iiitd.ac.in</a>
+   
+  **Open to researcher/research engineer/backend engineer roles**
 </p>
 
 <hr>
