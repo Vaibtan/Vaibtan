@@ -31,9 +31,6 @@
   <br>
   📫 How to reach me: <a href="mailto: vaibhav21296@iiitd.ac.in">vaibhav21296@iiitd.ac.in</a>
   <br>
-  
-  **Open to researcher/research engineer/backend engineer roles**
-
 </p>
 
 <hr>
