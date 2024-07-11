@@ -8,8 +8,9 @@
 
 ### Connect with me📝:
 <p align="center">
-<a href="https://twitter.com/aflah002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aflah02101" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammad-aflah-khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-aflah-khan" height="30" width="40" /></a>
+<a href="https://x.com/Sillychap101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sillychap101" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vaibhav-tanwar-b413b0229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav-tanwar" height="30" width="40" /></a>
+<a href="https://discord.com/users/924371348053192714" target="blank"><img align="center" src="images/discord.png" alt="aflah02101" height="30" width="40" /></a>
 </p>
 
 
