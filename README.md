@@ -44,6 +44,8 @@
   <code><img title="MongoDB" height="50" src="images/mongoDB.png"></code>
   <code><img title="Linux" height="50" src="images/linux.jpg"></code>
   <code><img title="TailwindCSS" height="50" src="images/tailwindCSS.jpg"></code>
+  <code><img title="Pandas" height="50" src="images/pandas.jpg"></code>
+  <code><img title="Seaborn" height="50" src="images/seaborn.png"></code>
   <code><img title="Redux" height="50" src="images/redux.svg"></code>
   <code><img title="Git" height="50" src="images/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="50" src="images/vscode.png"></code>
