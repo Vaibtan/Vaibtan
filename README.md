@@ -23,7 +23,7 @@
 
 <br>
 <p align="center">
-  Hi, I'm Vaibhav Tanwar, a senior at IIITD. I specialize in backend engineering, deep learning, distributed systems and algorithms, with a keen interest in graph representation learning 
+  Hi, I'm Vaibhav Tanwar, a senior at IIITD studying Computer Science and Applied Mathematics. I specialize in backend engineering, deep learning, distributed systems and algorithms, with a keen interest in graph representation learning and efficient training/inference of large foundation models. 
   <br>
   <br>
   🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
