@@ -40,6 +40,10 @@
   <code><img title="HTML5" height="40" src="images/html5.svg"></code>
   <code><img title="CSS" height="40" src="images/css.svg"></code>
   <code><img title="React" height="40" src="images/react-original.svg"></code>
+  <code><img title="Typescript" height="40" src="images/typescript.png"></code>
+  <code><img title="MongoDB" height="40" src="images/mongoDB.png"></code>
+  <code><img title="Linux" height="40" src="images/linux.jpg"></code>
+  <code><img title="TailwindCSS" height="40" src="images/tailwindCSS.jpg"></code>
   <code><img title="Redux" height="40" src="images/redux.svg"></code>
   <code><img title="Git" height="40" src="images/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="40" src="images/vscode.png"></code>
