@@ -25,17 +25,17 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages Frameworks & Tools 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="C" height="30" src="images/c.svg"></code>
+  <code><img title="C++" height="30" src="images/cpp.svg"></code>
+  <code><img title="C#" height="30" src="images/cSharp.svg"></code>
+  <code><img title="Python" height="30" src="images/python-original.svg"></code>
+  <code><img title="Django" height="30" src="images/django.png"></code>
+  <code><img title="Javascript" height="30" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="30" src="images/problemSolving.png"></code>
+  <code><img title="HTML5" height="30" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
   <code><img title="SASS" height="25" src="images/sass.svg"></code>
   <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
@@ -72,6 +72,7 @@
 
 <hr>
 
+<!--
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
@@ -92,3 +93,4 @@
 <h4 align="center">
   <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+-->
