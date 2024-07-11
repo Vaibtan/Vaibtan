@@ -7,7 +7,7 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://x.com/Sillychap101" title="Twitter Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"> LinkedIn</a></code>
+  <code><a href="https://x.com/Sillychap101" title="Twitter Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"> Twitter</a></code>
   <code><a href="https://www.linkedin.com/in/vaibhav-tanwar-b413b0229/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://discord.com/users/924371348053192714" title="Discord Profile"><img width="22" src="images/discord.png"> Discord</a></code>
 </h5>
@@ -30,30 +30,30 @@
 <p align="center">
   <code><img title="C" height="50" src="images/c.svg"></code>
   <code><img title="C++" height="50" src="images/cpp.svg"></code>
-  <code><img title="Python" height="40" src="images/python-original.svg"></code>
-  <code><img title="Django" height="40" src="images/django.png"></code>
-  <code><img title="Javascript" height="40" src="images/javascript.svg"></code>
-  <code><img title="Pytorch" height="40" src="images/pytorch.png"></code>
-  <code><img title="JAX" height="40" src="images/jax.jpg"></code>
-  <code><img title="Tinygrad" height="40" src="images/tinygrad.jpg"></code>
-  <code><img title="Scikit-Learn" height="40" src="images/scikit_learn.jpg"></code>
-  <code><img title="HTML5" height="40" src="images/html5.svg"></code>
-  <code><img title="CSS" height="40" src="images/css.svg"></code>
-  <code><img title="React" height="40" src="images/react-original.svg"></code>
-  <code><img title="Typescript" height="40" src="images/typescript.png"></code>
-  <code><img title="MongoDB" height="40" src="images/mongoDB.png"></code>
-  <code><img title="Linux" height="40" src="images/linux.jpg"></code>
-  <code><img title="TailwindCSS" height="40" src="images/tailwindCSS.jpg"></code>
-  <code><img title="Redux" height="40" src="images/redux.svg"></code>
-  <code><img title="Git" height="40" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="40" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="40" src="images/visualstudio.png"></code>
-  <code><img title="Java" height="40" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="40" src="images/json.svg"></code>
-  <code><img title="Android" height="40" src="images/android.svg"></code>
-  <code><img title="GitHub" height="40" src="images/github.svg"></code>
-  <code><img title="MySQL" height="40" src="images/mysql.svg"></code>
-  <code><img title="npm" height="40" src="images/npm.svg"></code>
+  <code><img title="Python" height="50" src="images/python-original.svg"></code>
+  <code><img title="Django" height="50" src="images/django.png"></code>
+  <code><img title="Javascript" height="50" src="images/javascript.svg"></code>
+  <code><img title="Pytorch" height="50" src="images/pytorch.png"></code>
+  <code><img title="JAX" height="50" src="images/jax.jpg"></code>
+  <code><img title="Tinygrad" height="50" src="images/tinygrad.jpg"></code>
+  <code><img title="Scikit-Learn" height="50" src="images/scikit_learn.jpg"></code>
+  <code><img title="HTML5" height="50" src="images/html5.svg"></code>
+  <code><img title="CSS" height="50" src="images/css.svg"></code>
+  <code><img title="React" height="50" src="images/react-original.svg"></code>
+  <code><img title="Typescript" height="50" src="images/typescript.png"></code>
+  <code><img title="MongoDB" height="50" src="images/mongoDB.png"></code>
+  <code><img title="Linux" height="50" src="images/linux.jpg"></code>
+  <code><img title="TailwindCSS" height="50" src="images/tailwindCSS.jpg"></code>
+  <code><img title="Redux" height="50" src="images/redux.svg"></code>
+  <code><img title="Git" height="50" src="images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="50" src="images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="50" src="images/visualstudio.png"></code>
+  <code><img title="Java" height="50" src="images/java-original.svg"></code>
+  <code><img title="JSON" height="50" src="images/json.svg"></code>
+  <code><img title="Android" height="50" src="images/android.svg"></code>
+  <code><img title="GitHub" height="50" src="images/github.svg"></code>
+  <code><img title="MySQL" height="50" src="images/mysql.svg"></code>
+  <code><img title="npm" height="50" src="images/npm.svg"></code>
 </p>
 <hr>
 
