@@ -25,7 +25,7 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages Frameworks & Tools 🔥</h2>
+<h2 align="center">💻 Languages Frameworks & Tools </h2>
 <br>
 <p align="center">
   <code><img title="C" height="50" src="images/c.svg"></code>
