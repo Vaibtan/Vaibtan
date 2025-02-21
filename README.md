@@ -18,8 +18,6 @@
   <br>
   📚 I’m currently trying to delve deep in the world of Ethereum blockchain research and Financial markets.  
   <br>
-  Visit my portfolio at https://vaibhav-portfolio-murex.vercel.app/
-  <br>
   💬 Ask me anything about from <a href="https://github.com/Vaibtan/Vaibtan/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: vaibhav21296@iiitd.ac.in">vaibhav21296@iiitd.ac.in</a>
