@@ -14,9 +14,7 @@
 
 <br>
 <p align="center">
-  Hi, I'm Vaibhav Tanwar, a senior at IIITD studying Computer Science and Applied Mathematics. I specialize in backend engineering, deep learning, distributed systems and algorithms, with a keen interest in graph representation learning and efficient training/inference of large foundation models.   
-  <br>
-  📚 I’m currently trying to delve deep in the world of Ethereum blockchain research and Financial markets.  
+  Hi, I'm Vaibhav Tanwar, a senior at IIITD studying Computer Science and Applied Mathematics. I specialize in Deep Learning, Computer Vision, Backend engineering, Distributed Systems and Algorithms, with a keen interest in graph representation learning and efficient training/inference of large foundation models.   
   <br>
   💬 Ask me anything about from <a href="https://github.com/Vaibtan/Vaibtan/issues" title="Issues">Here</a>
   <br>
