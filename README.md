@@ -1,18 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-
-<h5 align="center">
-  <code><a href="https://x.com/Sillychap101" title="Twitter Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"> Twitter</a></code>
-  <code><a href="https://www.linkedin.com/in/vaibhav-tanwar-b413b0229/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://discord.com/users/924371348053192714" title="Discord Profile"><img width="22" src="images/discord.png"> Discord</a></code>
-</h5>
-
-<br>
 <p align="center">
   Hi, I'm Vaibhav Tanwar, a senior at IIITD studying Computer Science and Applied Mathematics. I specialize in Deep Learning, Computer Vision, Backend engineering, Distributed Systems and Algorithms, with a keen interest in graph representation learning and efficient training/inference of large foundation models.   
   <br>
