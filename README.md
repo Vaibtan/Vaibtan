@@ -1,7 +1,7 @@
 <h3 align="center">👋 Hi there, I'm Vaibhav</h3>
 
 <p align="center">
-  <a href="https://vaibhavtanwar.netlify.app/">Website</a> •
+  <a href="https://vaibtan.github.io/">Website</a> •
   <a href="https://x.com/Sillychap101">X</a> •
   <a href="https://linkedin.com/in/vaibtan11">LinkedIn</a>
 </p>
